@@ -1,0 +1,1 @@
+# the_6_exercice_pyton
